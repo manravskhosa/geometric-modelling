@@ -1,7 +1,7 @@
 /* 
  * Sphere.cpp
  *
- * Target Machine: 64-Bit Linux Ubuntu 22.04.1 LTS
+ * Target Machine: 64-Bit Linux Ubuntu 22.04.1 LTS.1
  * 
  * Description: This file contains the implementation for the Sphere class defined in Sphere.h
  * Class Invariant: Radius (size) must not be negative
